@@ -1,2 +1,1 @@
-# vitu_fupi
-Vitu Fupi is an AI summarizer for lazy people like myself who are proud generalists and enjoy consuming alot of diverse information. Yet suffering from a lack of long-term attention.
+The AI Text Summarizer uses cutting-edge artificial intelligence to extract the key points of any text and present them in a clear and concise way. Whether you're a student, a busy professional, or just someone who doesn't have time to read long articles, the AI Summarizer can help you save time and stay informed.
